@@ -1,0 +1,39 @@
+group: 共同利用
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#共同利用/学生プロポーザル"
+    name: 学生の観測提案（student proposal）の審査結果の取りまとめ・通知・観測時間の割り当て
+    category: 事務
+    frequency: 年1回
+    timing: 9月末〜10月初め
+    docs: なし
+    people: 2
+    judges: null
+    learners: null
+    concentration: null
+    status: 現行
+    note: 判断レベルと属人度が未記入
+  - tag: "#共同利用/観測スケジュール"
+    name: 観測スケジュールの更新
+    category: 事務
+    frequency: 随時
+    timing: 変更の依頼があったとき
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: null
+    status: 現行
+    note: 判断レベルと属人度が未記入
+  - tag: "#共同利用/EAVNスケジュール"
+    name: 東アジア VLBI ネットワーク（EAVN）の観測スケジュールの確認
+    category: 観測
+    frequency: 定期的
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明

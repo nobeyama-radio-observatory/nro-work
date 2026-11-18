@@ -1,0 +1,94 @@
+group: 計算機
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#計算機/45観測系統保守"
+    name: 45m の観測用の計算機の日常の保守・再起動
+    category: 装置
+    frequency: 不定期
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    assets: [ctl-computers]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#計算機/ADC連携"
+    name: 天文データセンター（ADC）が設置する計算機の窓口と定例会への出席
+    category: 装置・事務
+    frequency: 定例会は月1回程度
+    docs: なし
+    people: 2
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+    assets: [db-nrodb-nobeyama, db-radio-archive]
+    note: 一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#計算機/PowerAutomate運用"
+    name: 業務の自動化ツールのライセンスの年次の調達と、自動化の処理の運用
+    category: 計算機・事務
+    frequency: 年1回（ライセンス）／処理の運用は随時
+    timing: 6〜8月（調達）
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+  - tag: "#計算機/Webサーバ運用"
+    name: 観測所の Web サーバの基盤の運用と問い合わせ対応
+    category: 計算機・ユーザー対応
+    frequency: 随時（問い合わせのつど）
+    docs: あり（所内）
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+  - tag: "#計算機/eff45解析ソフト"
+    name: 副鏡のパラメータの解析ソフト（eff45）の維持
+    category: 開発
+    frequency: 観測期前
+    docs: あり（所内）
+    people: 2
+    judges: 0
+    learners: 1
+    concentration: 高
+    status: 現行
+    note: 一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#計算機/業務ログ運用"
+    name: 業務ログの基盤（worklog）の構築・運用と月次マージ
+    category: 開発・事務
+    frequency: 随時（月次マージは月1回）
+    docs: あり（所内）
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+  - tag: "#計算機/気象データ記録"
+    name: 気象データを記録する計算機の保守
+    category: 装置
+    frequency: 年数回
+    timing: 障害時
+    docs: 一部
+    people: null
+    judges: null
+    learners: null
+    concentration: 高
+    status: 現行
+    note: 関わる人数と判断レベルが未確定。前任者の離職により独自のソフトと設定が未文書化
+  - tag: "#計算機/観測アカウント発行"
+    name: 共同利用の観測用アカウントの発行
+    category: 事務
+    frequency: 年4回
+    timing: 6月、8月、10月、12月
+    docs: なし
+    people: 2
+    judges: 0
+    learners: 1
+    concentration: 高
+    status: 現行
+    note: 作業用のスクリプトが一か所にしかない。一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた

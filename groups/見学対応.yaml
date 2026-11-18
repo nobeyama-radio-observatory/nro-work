@@ -1,0 +1,38 @@
+group: 見学対応
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#見学対応/大学教育"
+    name: 大学の教育目的の学生の見学への対応
+    category: 研究交流・教育
+    frequency: 随時（年数回）
+    timing: 先方の都合による
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+    assets: [nro45m]
+  - tag: "#見学対応/広報"
+    name: 報道機関の取材と視察への対応
+    category: 広報・アウトリーチ
+    frequency: 年数回
+    timing: 先方の都合による
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+  - tag: "#見学対応/研究交流"
+    name: 他機関・海外の研究者の来訪の受け入れ
+    category: 研究交流
+    frequency: 年1〜2回
+    timing: 先方の都合による
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行

@@ -1,0 +1,39 @@
+group: アンテナ
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#アンテナ/M1"
+    name: 主鏡（M1）に関する外部からの問い合わせ対応
+    category: 事務
+    frequency: 不定期
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    assets: [nro45m]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#アンテナ/副鏡"
+    name: 副鏡の障害対応の調査
+    category: 装置
+    frequency: 不定期
+    docs: なし
+    people: 3
+    judges: null
+    learners: null
+    concentration: 低
+    status: 現行
+    assets: [nro45m]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#アンテナ/気象装置"
+    name: 気象装置の障害対応
+    category: 装置
+    frequency: 不定期
+    docs: なし
+    people: 2
+    judges: null
+    learners: null
+    concentration: 低
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明

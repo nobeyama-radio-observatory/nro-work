@@ -1,0 +1,27 @@
+group: 運営
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#運営/45運用会議"
+    name: 45m の運用会議の司会と議事録の記入
+    category: 運営
+    frequency: 定期的
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    assets: [nro45m]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#運営/技術推進室定例会"
+    name: 技術推進室の定例会への出席と進捗の報告
+    category: 運営
+    frequency: 定期的
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明

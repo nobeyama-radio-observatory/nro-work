@@ -1,0 +1,39 @@
+group: 分光計
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#分光計/SAM45運用"
+    name: SAM45 の障害対応（モジュールの交換など）
+    category: 装置
+    frequency: 随時
+    docs: あり（所内）
+    people: 2
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+    assets: [be-sam45]
+    note: 一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#分光計/ACA相関器診断ベンチ"
+    name: 退役した ACA 相関器のボードを使った、分光計のボードの診断ベンチの構築・運用
+    category: 装置
+    frequency: 随時
+    docs: あり（所内）
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+    assets: [be-sam45]
+  - tag: "#分光計/RFSoC分光計開発"
+    name: RFSoC を用いた電波分光計の開発（SAM45 の後継）
+    category: 開発
+    frequency: 随時
+    timing: 2026年度に要素技術を実証し、2027年度から試験運用の計画
+    docs: あり（公開） https://github.com/nobeyama-radio-observatory/YATSUGATAKE
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+    assets: [be-yatsugatake]

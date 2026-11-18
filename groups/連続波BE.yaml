@@ -1,0 +1,16 @@
+group: 連続波BE
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#連続波BE/保守改修"
+    name: 連続波のバックエンドの保守・改修
+    category: 装置・開発
+    frequency: 随時（装置の更新時に集中）
+    timing: 1〜2年以内に大規模な改修を予定
+    docs: あり（所内）
+    people: 2
+    judges: 1
+    learners: 1
+    concentration: 高
+    status: 現行
+    assets: [be-continuum-2026]

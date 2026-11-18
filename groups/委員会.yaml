@@ -1,0 +1,15 @@
+group: 委員会
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#委員会/技術シンポジウム世話人会"
+    name: 技術シンポジウムの世話人会の連絡・リマインダ
+    category: 委員会
+    frequency: 定期的
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明

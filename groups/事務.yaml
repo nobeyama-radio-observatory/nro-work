@@ -1,0 +1,84 @@
+group: 事務
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#事務/宿舎運用"
+    name: 観測所の宿舎の整備・運用（備品、寝具の手配、宿泊の割り当て、利用案内）
+    category: 事務・施設
+    frequency: 随時（特別公開日の前後に集中）
+    docs: あり（所内）
+    people: 4
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+    note: 受付の定常業務は事務室が担う。一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#事務/新人研修対応"
+    name: 技術系の新人研修の観測所側の窓口
+    category: 事務
+    frequency: 年1回
+    timing: 8月下旬
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 高
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#事務/資産調査"
+    name: 資産調査の準備・対応
+    category: 事務
+    frequency: 年1回
+    timing: 9月（締め切りは9月中旬）
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#事務/有料観測アカウント発行"
+    name: 有料観測のアカウントの発行の手続き
+    category: 事務
+    frequency: 年数回
+    timing: 有料観測の受け入れ時
+    docs: なし
+    people: 2
+    judges: null
+    learners: null
+    concentration: 低
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#事務/有料観測事務"
+    name: 有料観測に関する事務（書類の提出、請求書の発行、問い合わせの取り次ぎ）
+    category: 事務
+    frequency: 随時
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#事務/会議議事録"
+    name: 所内の会議の議事録の報告システムへの記入
+    category: 事務
+    frequency: 定期的（会議のつど）
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#事務/日常事務"
+    name: 日常の事務処理（メール、勤怠の承認など）
+    category: 事務
+    frequency: 毎日
+    docs: なし
+    people: 2
+    judges: 1
+    learners: 0
+    concentration: 低
+    status: 現行
+    note: 一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた

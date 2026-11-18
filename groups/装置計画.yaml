@@ -1,0 +1,26 @@
+group: 装置計画
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#装置計画/150GHz受信機"
+    name: 150GHz 受信機の設置に関する外部機関からの問い合わせ対応
+    category: 事務
+    frequency: 不定期
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#装置計画/MAO"
+    name: ミリ波補償光学（MAO）に関する外部からの問い合わせ対応
+    category: 事務
+    frequency: 不定期
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
