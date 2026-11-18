@@ -1,0 +1,84 @@
+group: 広報
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#広報/特別公開"
+    name: 特別公開日の運営（参加者の管理、各種のリスト、会議費の申請、構内の整備、什器の配置）
+    category: イベント
+    frequency: 年1回
+    timing: 8月末の土曜日
+    docs: あり（所内）
+    people: 2
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+    note: 事務の手続きと当日の協力者は人数に含めていない
+  - tag: "#広報/特別公開"
+    name: 特別公開日の撤収（テントの片付け）
+    category: 事務
+    frequency: 年1回
+    timing: 9月上旬
+    docs: なし
+    people: 4
+    judges: null
+    learners: null
+    concentration: null
+    status: 現行
+    note: 判断レベルと属人度が未記入
+  - tag: "#広報/天文台展"
+    name: 巡回企画展「野辺山天文台展」の運営（申し込みの受付、展示物の発送の依頼、Web の開催一覧の更新）
+    category: 広報・イベント
+    frequency: 随時（2〜3か月に1件程度）
+    docs: あり（所内）
+    people: 2
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+    note: 一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#広報/電波天文学が学べる大学"
+    name: ポスター企画「電波天文学が学べる大学」の運営（募集、印刷の発注、掲示、Web 公開）
+    category: 広報・イベント
+    frequency: 随時（年数回）
+    timing: ポスターの提出のつど
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+  - tag: "#広報/外部講演"
+    name: 外部の団体からの依頼による講演
+    category: 広報・アウトリーチ
+    frequency: 年数回
+    timing: 依頼元の都合による
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+  - tag: "#広報/コーヒーフェスティバル"
+    name: 地域のイベント（コーヒーフェスティバル）への協力と、同時開催の天文イベント
+    category: 広報・イベント
+    frequency: 年1回
+    timing: 11月
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行
+  - tag: "#広報/中高生受入"
+    name: 近隣の中高生の受け入れ（探究授業、インターン、職場体験）
+    category: アウトリーチ
+    frequency: 年5回程度
+    timing: 夏に集中
+    docs: なし
+    people: null
+    judges: null
+    learners: null
+    concentration: 低
+    status: 現行
+    note: 研究系の職員が主に担い、技術系・事務系も加わる。関わる人数と判断レベルは未確定

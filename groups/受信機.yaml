@@ -1,0 +1,108 @@
+group: 受信機
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#受信機/eQ運用"
+    name: eQ 受信機の運用（真空引き、冷却の開始、関連装置の電源投入）
+    category: 装置
+    frequency: 依頼による随時
+    docs: なし
+    people: 2
+    judges: 0
+    learners: 1
+    concentration: null
+    status: 現行
+    assets: [rx-eq]
+    note: 判断は製作した外部機関と共同で行う。属人度が未記入。一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#受信機/Z45"
+    name: Z45 受信機の立ち上げ（真空引き、冷却）
+    category: 装置
+    frequency: 随時
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    assets: [rx-z45]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/TZ受信機"
+    name: TZ 受信機の不具合対応
+    category: 装置
+    frequency: 不定期
+    docs: なし
+    people: 2
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    assets: [rx-hinotori-tz]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/7BEEイコライザー設置"
+    name: 7BEE 受信機のイコライザーの設置
+    category: 装置
+    frequency: 随時
+    timing: 2026-09
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    assets: [rx-7bee]
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/シンセ10MHz"
+    name: シンセサイザなどの装置のエラーの対応の指示
+    category: 装置
+    frequency: 不定期
+    docs: なし
+    people: 2
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/B8v2"
+    name: ALMA Band 8 v2 の冷凍機の解体に関する出張・購入の手続き
+    category: 装置
+    frequency: 随時
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 高
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/B8v2温度モニタ"
+    name: ALMA Band 8 v2 の温度モニタの対応
+    category: 装置
+    frequency: 随時
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 高
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/SIS素子移譲"
+    name: 装置・素子の他機関への移譲の対応
+    category: 事務
+    frequency: 不定期（まれ）
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#受信機/機材貸出"
+    name: 受信機の関連機材（真空ポンプなど）の貸し出しの許可
+    category: 事務
+    frequency: 不定期
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明

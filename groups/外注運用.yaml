@@ -1,0 +1,15 @@
+group: 外注運用
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#外注運用/在宅研究支援員"
+    name: 在宅研究支援員の制度の設計・運用（業務の切り出しと割り当て、タスク管理の整備）
+    category: 事務・運営
+    frequency: 随時
+    timing: 2026-09 開始
+    docs: あり（所内）
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行

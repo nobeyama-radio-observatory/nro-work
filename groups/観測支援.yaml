@@ -1,0 +1,15 @@
+group: 観測支援
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#観測支援/障害一次対応"
+    name: 装置に異常が出たときの一次対応（観測者からの連絡を受けた切り分けと現場での対処）
+    category: 装置・観測
+    frequency: 随時（年数回）
+    timing: 観測期間中の夜間が多い
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 中
+    status: 現行

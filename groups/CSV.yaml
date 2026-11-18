@@ -1,0 +1,63 @@
+group: CSV
+as_of: 2026-11
+source: worklog の月次マージ（2026-11）
+tasks:
+  - tag: "#CSV/ビーム能率測定"
+    name: 7BEE の連続波ビーム能率測定（CSV）の観測指示書の作成
+    category: 装置
+    frequency: 年1回
+    timing: 10月
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+    assets: [rx-7bee, nro45m]
+  - tag: "#CSV/副鏡測定"
+    name: 副鏡測定（CSV）の準備観測・実施・マネジメント
+    category: 装置
+    frequency: 年1回
+    timing: 観測期前（8〜9月）
+    docs: あり（所内）
+    people: 5
+    judges: 1
+    learners: 0
+    concentration: 低
+    status: 現行
+    assets: [nro45m]
+    note: 一部の関係者の判断レベルが未記入。judges と learners は記入のある分だけ数えた
+  - tag: "#CSV/観測指示書"
+    name: CSV 用の観測指示書・Device Table の作成
+    category: 装置
+    frequency: 年1回（装置構成の変更時は随時）
+    timing: CSV の開始前（8月下旬）
+    docs: なし
+    people: 1
+    judges: 1
+    learners: 0
+    concentration: 高
+    status: 現行
+    assets: [be-continuum-2026, tool-obs-script]
+  - tag: "#CSV/観測当番"
+    name: CSV の当番での試験観測・観測作業
+    category: 観測
+    frequency: 随時（当番時）
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
+  - tag: "#CSV/解析指示当番"
+    name: CSV の当番でのデータ解析と、担当者への観測の指示・引き継ぎ
+    category: 観測
+    frequency: 随時（当番時）
+    docs: なし
+    people: 1
+    judges: null
+    learners: null
+    concentration: 中
+    status: 現行
+    note: 判断レベルが未記入のため、judges と learners は不明
